@@ -1,0 +1,19 @@
+{
+  "usernames": [
+    {
+      "login": "UserLogin1",
+      "password": "pass12345",
+      "name": "UserName1"
+    },
+    {
+      "login": "UserLogin2",
+      "password": "pass12345",
+      "name": "UserName2"
+    },
+    {
+      "login": "UserLogin3",
+      "password": "pass12345",
+      "name": "UserName3"
+    }
+  ]
+}
